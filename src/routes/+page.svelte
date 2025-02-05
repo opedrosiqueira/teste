@@ -1,3 +1,3 @@
 olá
-<a href="/sobre">sobre</a>
-<a href="/pagina">pagina</a>
+<a href="/teste/sobre">sobre</a>
+<a href="/teste/pagina">pagina</a>
